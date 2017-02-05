@@ -1,3 +1,4 @@
-#include <reg52.h>
-#include <math.h>
+//#include <math.h>
 #define PA^0 LED0
+#define PA^1 LED1
+#define PA^2 LED2
